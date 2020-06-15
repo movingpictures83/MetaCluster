@@ -1,0 +1,2 @@
+Prefix plugins/MetaCluster/example
+Plugin MetaCluster inputfile Test1.fna outputfile Test1
