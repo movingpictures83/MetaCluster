@@ -1,7 +1,9 @@
+# MetaCluster
 # Language: C++
 # Input: FNA
-# Output: FNA
+# Output: prefix
 # Tested with: PluMA 1.0, GCC 4.8.4
+# Dependency: MetaCluster 3.0
 
 PluMA plugin to run MetaCluster (Yang et al, 2010), a tool
 that performs binning of short reads.
