@@ -10,8 +10,8 @@ def test(file1, file2):
 
    comb = lines1.intersection(lines2)
 
-   # Some random number inconsistency; we will accept 90% accuracy
-   if (len(comb) >= 0.9*len(lines2)):
+   # Some random number inconsistency; we will accept 75% accuracy
+   if (len(comb) >= 0.75*len(lines2)):
       return True
    else:
       return False
